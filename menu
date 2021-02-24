@@ -1,4 +1,5 @@
 #Muestra las opciones de recorrido y tratamiento del árbol
+#Estudiantes: Maikel Franco y Ovidio
 tree = arbol()
 while True:
     os.system("cls")
