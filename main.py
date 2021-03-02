@@ -45,6 +45,7 @@ class Nodo():
         valores.append(self.valor)
 
 #Muestra las opciones de recorrido y tratamiento del árbol
+#Maikel Franco y Ovidio Diaz
 if __name__=="__main__":
     root=None
     sentinel=True
